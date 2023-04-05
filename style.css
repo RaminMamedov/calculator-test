@@ -1,0 +1,30 @@
+
+.calculator-wrapper {
+  margin: 0 auto;
+  width: 700px;
+  height: 400px;
+  background-color: brown;
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  margin: 20px;
+}
+
+button:hover {
+  background-color: aqua;
+}
+
+.input-block {
+  display: inline-block;
+  padding: 10px;
+}
+
+label {
+  display: block;
+}
+
+
